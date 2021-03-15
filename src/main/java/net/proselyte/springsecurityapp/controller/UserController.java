@@ -12,12 +12,7 @@ import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
-/**
- * Controller for {@link net.proselyte.springsecurityapp.model.User}'s pages.
- *
- * @author Eugene Suleimanov
- * @version 1.0
- */
+
 
 @Controller
 public class UserController {
